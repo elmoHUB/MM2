@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6ImI5NDRkZGQzLTI3OGEtNDljNy05MDIxLTBiZGRhMjQ1NDQ3MyIsImtpbmQiOiJtZWRpYSIsInZpc3VhbCI6eyJpZCI6InVuaXZlcnNhbCJ9fQ"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GalaxySanyobox/mystery/refs/heads/main/lua"))()
